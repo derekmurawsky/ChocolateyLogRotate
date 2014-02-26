@@ -3,7 +3,7 @@
   <metadata>
     <id>LogRotate</id>
     <title>LogRotate</title>
-    <version>0.0.0.11</version>
+    <version>0.0.0.111</version>
     <authors>Ken Salter</authors>
     <owners>Derek Murawsky</owners>
     <summary>This is a Windows implementation of the logrotate utility found in Linux platforms.</summary>
